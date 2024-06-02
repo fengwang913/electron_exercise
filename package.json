@@ -24,7 +24,10 @@
     "@electron-toolkit/preload": "^3.0.0",
     "@electron-toolkit/utils": "^3.0.0",
     "antd": "^5.17.4",
+    "handlebars": "^4.7.8",
     "modbus": "^1.1.3",
+    "pdf-parse-fork": "^1.2.0",
+    "puppeteer-html-pdf": "^4.0.8",
     "react-router-dom": "^6.23.1"
   },
   "devDependencies": {

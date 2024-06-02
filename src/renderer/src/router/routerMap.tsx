@@ -3,7 +3,7 @@
  import Login from "../pages/login";
  import User from "../pages/user";
  import Community from "../pages/community";
- import Book from "../pages/book";
+ import LinkUp from "../pages/linkUp";
  import Layout from "../layout";
  import PrivateRoute from "./privateRoute";
  export const routerMap = [
@@ -28,8 +28,8 @@
                  element: <Community />,
              },
              {
-                 path: "/book",
-                 element: <Book />,
+                 path: "/linkUp",
+                 element: <LinkUp />,
              },
          ],
      },
